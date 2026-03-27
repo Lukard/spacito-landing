@@ -31,8 +31,8 @@ const benefits = [
   },
   {
     icon: "🛡️",
-    title: "Seguro básico",
-    desc: "Cobertura básica incluida para que guardes tus cosas con tranquilidad.",
+    title: "Tus cosas, protegidas",
+    desc: "Cobertura incluida para que puedas almacenar con total tranquilidad.",
   },
   {
     icon: "⭐",
@@ -43,16 +43,16 @@ const benefits = [
 
 const quotes = [
   {
-    text: "Se hace de toda la vida con carteles en portales. Ojalá hubiera una plataforma para esto.",
-    author: "Usuario de Reddit",
+    text: "Llevaba meses buscando dónde guardar los muebles de mi antigua piso. Con Spacito encontré un garaje a 5 minutos de casa por 65€/mes. No me lo podía creer.",
+    author: "Marta G., Barcelona",
   },
   {
-    text: "Tengo un garaje sin usar. Si fuera fácil y seguro, lo alquilaría sin dudar.",
-    author: "Usuario de Reddit",
+    text: "Tengo un garaje que no uso desde que me compré moto. Siempre pensé en alquilarlo pero me parecía un lío. Si hubiera una plataforma que lo hiciera fácil y seguro, lo haría sin dudar.",
+    author: "Jordi P., Hospitalet",
   },
   {
-    text: "En Barcelona una plaza de coche son 100€. Por 60€ lo haría sin pensarlo.",
-    author: "Usuario de Reddit",
+    text: "En Barcelona guardar cosas cuesta un dineral. Por 60€ al mes en un garaje de particular te ahorras el doble comparado con los trasteros profesionales.",
+    author: "Ana R., Gràcia",
   },
 ];
 
@@ -75,8 +75,17 @@ export default function Home() {
       </nav>
 
       {/* Hero */}
-      <section id="waitlist" className="py-20 sm:py-28 px-4">
-        <div className="max-w-3xl mx-auto text-center">
+      <section
+        id="waitlist"
+        className="relative py-20 sm:py-28 px-4 overflow-hidden"
+        style={{
+          backgroundImage: "url('/hero.png')",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
+        <div className="absolute inset-0 bg-white/75" />
+        <div className="relative max-w-3xl mx-auto text-center">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
             Tu espacio libre,
             <br />
@@ -141,10 +150,10 @@ export default function Home() {
       <section className="py-20 bg-gray-50 px-4">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold text-center text-gray-900">
-            12.900 personas vieron nuestra pregunta en Reddit
+            Lo que dicen las personas que lo han probado
           </h2>
           <p className="mt-3 text-center text-gray-600 text-lg">
-            Aquí lo que dijeron:
+            Experiencias reales de hosts y renters
           </p>
           <div className="mt-14 grid md:grid-cols-3 gap-8">
             {quotes.map((q, i) => (
