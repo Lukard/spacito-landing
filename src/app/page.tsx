@@ -93,7 +93,7 @@ export default function Home() {
           </h1>
           <p className="mt-6 text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto">
             Conectamos personas con garajes y trasteros sin usar con quienes necesitan almacenaje
-            asequible en Barcelona. Desde 60€/mes.
+            asequible en Barcelona.
           </p>
           <div className="mt-10 flex justify-center">
             <WaitlistForm />
