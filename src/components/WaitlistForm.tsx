@@ -57,7 +57,7 @@ export default function WaitlistForm() {
       <select
         value={role}
         onChange={(e) => setRole(e.target.value as "host" | "renter")}
-        className="px-4 pr-10 py-3 rounded-lg border border-gray-300 text-gray-900 bg-white focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+        className="px-4 pr-16 py-3 rounded-lg border border-gray-300 text-gray-900 bg-white focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
       >
         <option value="renter">Necesito espacio</option>
         <option value="host">Tengo espacio</option>
