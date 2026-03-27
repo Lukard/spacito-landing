@@ -1,0 +1,55 @@
+{
+  "navbar": {
+    "cta": "Join the waitlist"
+  },
+  "hero": {
+    "title1": "Your spare space,",
+    "title2": "their storage solution",
+    "subtitle": "We connect people with unused garages and storage rooms to those who need affordable storage in Barcelona."
+  },
+  "howItWorks": {
+    "heading": "How does it work?",
+    "step1Title": "List your space",
+    "step1Desc": "Have an unused garage, storage room or spare room? List it on Spacito in minutes.",
+    "step2Title": "We find a match",
+    "step2Desc": "We find the perfect person who needs your space nearby.",
+    "step3Title": "Get paid monthly",
+    "step3Desc": "Receive your payment securely every month. No hassle."
+  },
+  "whySpacito": {
+    "heading": "Why Spacito?",
+    "benefit1Title": "Contract included",
+    "benefit1Desc": "Standard contract automatically generated to protect both parties.",
+    "benefit2Title": "Secure payment",
+    "benefit2Desc": "Payments managed through the platform. No surprises.",
+    "benefit3Title": "Your things, protected",
+    "benefit3Desc": "Coverage included so you can store with complete peace of mind.",
+    "benefit4Title": "Reviews",
+    "benefit4Desc": "Review system so you can confidently choose who you rent to or where you store."
+  },
+  "socialProof": {
+    "heading": "What people are saying",
+    "subtitle": "Real experiences from hosts and renters",
+    "quote1": "I'd been looking for months for somewhere to store my old flat's furniture. With Spacito I found a garage 5 minutes from home for €65/month. I couldn't believe it.",
+    "quote2": "I have a garage I've not used since I bought my motorbike. I always thought about renting it out but it seemed like a hassle. If there was a platform that made it easy and safe, I'd do it without hesitation.",
+    "quote3": "Storing things in Barcelona costs a fortune. For €60/month in a private garage you save double compared to professional storage units."
+  },
+  "finalCta": {
+    "heading": "Be the first to know when we launch in Barcelona",
+    "subtitle": "Join the waitlist and we'll notify you before anyone else."
+  },
+  "form": {
+    "placeholder": "your@email.com",
+    "renter": "I need space",
+    "host": "I have space",
+    "submit": "Join the waitlist",
+    "loading": "Sending...",
+    "successTitle": "You're on the list!",
+    "successMessage": "We'll let you know when we launch in Barcelona.",
+    "errorDuplicate": "This email is already on the list.",
+    "errorGeneric": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "text": "© 2026 Spacito. Made in Barcelona."
+  }
+}

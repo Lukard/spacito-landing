@@ -1,0 +1,55 @@
+{
+  "navbar": {
+    "cta": "Uneix-te a la llista"
+  },
+  "hero": {
+    "title1": "El teu espai lliure,",
+    "title2": "la seva solució d'emmagatzematge",
+    "subtitle": "Connectem persones amb garatges i trasters sense ús amb qui necessita emmagatzematge assequible a Barcelona."
+  },
+  "howItWorks": {
+    "heading": "Com funciona?",
+    "step1Title": "Publica el teu espai",
+    "step1Desc": "Tens un garatge, traster o habitació sense ús? Posa-ho a Spacito en minuts.",
+    "step2Title": "Et connectem amb algú",
+    "step2Desc": "Trobem la persona perfecta que necessita el teu espai a prop teu.",
+    "step3Title": "Cobra cada mes",
+    "step3Desc": "Rep el teu pagament de forma segura cada mes. Sense complicacions."
+  },
+  "whySpacito": {
+    "heading": "Per què Spacito?",
+    "benefit1Title": "Contracte inclòs",
+    "benefit1Desc": "Contracte estàndard generat automàticament per protegir ambdues parts.",
+    "benefit2Title": "Pagament segur",
+    "benefit2Desc": "Pagaments gestionats a través de la plataforma. Sense sorpreses.",
+    "benefit3Title": "Les teves coses, protegides",
+    "benefit3Desc": "Cobertura inclosa perquè puguis emmagatzemar amb total tranquil·litat.",
+    "benefit4Title": "Valoracions",
+    "benefit4Desc": "Sistema de ressenyes perquè triïs amb confiança a qui lloga o on guardes."
+  },
+  "socialProof": {
+    "heading": "El que diuen les persones que ho han provat",
+    "subtitle": "Experiències reals de hosts i renters",
+    "quote1": "Feia mesos que buscava on guardar els mobles del meu antic pis. Amb Spacito vaig trobar un garatge a 5 minuts de casa per 65€/mes. No m'ho podia creure.",
+    "quote2": "Tinc un garatge que no faig servir des que em vaig comprar la moto. Sempre havia pensat a llogar-lo però em semblava un embolic. Si hi hagués una plataforma que ho fes fàcil i segur, ho faria sense dubtar.",
+    "quote3": "A Barcelona guardar coses costa un dineral. Per 60€ al mes en un garatge de particular t'estalvies el doble comparat amb els trasters professionals."
+  },
+  "finalCta": {
+    "heading": "Sigues el primer a saber quan llancem a Barcelona",
+    "subtitle": "Uneix-te a la llista d'espera i t'avisarem abans que ningú."
+  },
+  "form": {
+    "placeholder": "tu@email.com",
+    "renter": "Necessito espai",
+    "host": "Tinc espai",
+    "submit": "Uneix-te a la llista",
+    "loading": "Enviant...",
+    "successTitle": "Ets a la llista!",
+    "successMessage": "T'avisarem quan llancem a Barcelona.",
+    "errorDuplicate": "Aquest email ja és a la llista.",
+    "errorGeneric": "Alguna cosa ha anat malament. Torna-ho a provar."
+  },
+  "footer": {
+    "text": "© 2026 Spacito. Fet a Barcelona."
+  }
+}

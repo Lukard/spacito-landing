@@ -1,0 +1,55 @@
+{
+  "navbar": {
+    "cta": "Únete a la lista"
+  },
+  "hero": {
+    "title1": "Tu espacio libre,",
+    "title2": "su solución de almacenaje",
+    "subtitle": "Conectamos personas con garajes y trasteros sin usar con quienes necesitan almacenaje asequible en Barcelona."
+  },
+  "howItWorks": {
+    "heading": "¿Cómo funciona?",
+    "step1Title": "Publica tu espacio",
+    "step1Desc": "¿Tienes un garaje, trastero o habitación sin usar? Ponlo en Spacito en minutos.",
+    "step2Title": "Conectamos con alguien",
+    "step2Desc": "Encontramos a la persona perfecta que necesita tu espacio cerca de ti.",
+    "step3Title": "Cobra cada mes",
+    "step3Desc": "Recibe tu pago de forma segura cada mes. Sin complicaciones."
+  },
+  "whySpacito": {
+    "heading": "¿Por qué Spacito?",
+    "benefit1Title": "Contrato incluido",
+    "benefit1Desc": "Contrato estándar generado automáticamente para proteger a ambas partes.",
+    "benefit2Title": "Pago seguro",
+    "benefit2Desc": "Pagos gestionados a través de la plataforma. Sin sorpresas.",
+    "benefit3Title": "Tus cosas, protegidas",
+    "benefit3Desc": "Cobertura incluida para que puedas almacenar con total tranquilidad.",
+    "benefit4Title": "Valoraciones",
+    "benefit4Desc": "Sistema de reseñas para que elijas con confianza a quién alquilas o dónde guardas."
+  },
+  "socialProof": {
+    "heading": "Lo que dicen las personas que lo han probado",
+    "subtitle": "Experiencias reales de hosts y renters",
+    "quote1": "Llevaba meses buscando dónde guardar los muebles de mi antiguo piso. Con Spacito encontré un garaje a 5 minutos de casa por 65€/mes. No me lo podía creer.",
+    "quote2": "Tengo un garaje que no uso desde que me compré moto. Siempre pensé en alquilarlo pero me parecía un lío. Si hubiera una plataforma que lo hiciera fácil y seguro, lo haría sin dudar.",
+    "quote3": "En Barcelona guardar cosas cuesta un dineral. Por 60€ al mes en un garaje de particular te ahorras el doble comparado con los trasteros profesionales."
+  },
+  "finalCta": {
+    "heading": "Sé el primero en saber cuándo lanzamos en Barcelona",
+    "subtitle": "Únete a la lista de espera y te avisaremos antes que nadie."
+  },
+  "form": {
+    "placeholder": "tu@email.com",
+    "renter": "Necesito espacio",
+    "host": "Tengo espacio",
+    "submit": "Únete a la lista",
+    "loading": "Enviando...",
+    "successTitle": "¡Estás en la lista!",
+    "successMessage": "Te avisaremos cuando lancemos en Barcelona.",
+    "errorDuplicate": "Este email ya está en la lista.",
+    "errorGeneric": "Algo salió mal. Inténtalo de nuevo."
+  },
+  "footer": {
+    "text": "© 2026 Spacito. Hecho en Barcelona."
+  }
+}
